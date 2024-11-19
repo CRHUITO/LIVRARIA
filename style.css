@@ -6,6 +6,9 @@ padding: 5px;
 }
 
 body{
-    background-color: black;
-    color: aliceblue;
+    background-image: url("https://static.todamateria.com.br/upload/th/ec/thecreationofadam-cke.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
 }
+   
